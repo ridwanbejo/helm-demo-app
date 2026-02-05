@@ -1,0 +1,7 @@
+apiVersion: v2
+name: helm-demo-app
+description: A Helm chart for my demo app for learning ArgoCD for now.
+
+type: application
+
+version: 0.1.0

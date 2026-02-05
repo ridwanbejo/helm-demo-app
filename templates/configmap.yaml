@@ -1,0 +1,9 @@
+apiVersion: v1
+data:
+  APP_CONCURRENCY: "{{ .Values.configMap.data.APP_CONCURRENCY }}"
+  APP_DEBUG: "{{ .Values.configMap.data.APP_DEBUG }}"
+kind: ConfigMap
+metadata:
+  creationTimestamp: null
+  name: "{{ .Values.appName }}-config"
+  namespace: {{ .Values.namespace }}
