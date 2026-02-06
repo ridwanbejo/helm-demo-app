@@ -4,4 +4,4 @@ description: A Helm chart for my demo app for learning ArgoCD for now.
 
 type: application
 
-version: 0.1.0
+version: 0.1.1

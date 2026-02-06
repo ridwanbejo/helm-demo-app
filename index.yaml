@@ -1,3 +1,13 @@
 apiVersion: v1
-entries: {}
-generated: "2026-02-06T18:16:33.275764+07:00"
+entries:
+  helm-demo-app:
+  - apiVersion: v2
+    created: "2026-02-06T18:28:35.006046+07:00"
+    description: A Helm chart for my demo app for learning ArgoCD for now.
+    digest: 966b058895451c48f34f53f45dd4a2dc9aa53f6e12beaabb4a4a99f4b54c298f
+    name: helm-demo-app
+    type: application
+    urls:
+    - helm-demo-app-0.1.1.tgz
+    version: 0.1.1
+generated: "2026-02-06T18:28:35.00531+07:00"
