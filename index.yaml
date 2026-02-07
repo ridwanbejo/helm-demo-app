@@ -2,12 +2,12 @@ apiVersion: v1
 entries:
   helm-demo-app:
   - apiVersion: v2
-    created: "2026-02-07T20:18:42.48138+07:00"
+    created: "2026-02-07T20:21:47.571729+07:00"
     description: A Helm chart for my demo app for learning ArgoCD for now.
     digest: 3c529b8f67ac1200e68e1fb208b79e3a510c52675abd0cbf3e3c6c5dd5dbbc0c
     name: helm-demo-app
     type: application
     urls:
-    - https://ridwanbejo.github.io/helm-demo-app/charts/charts/helm-demo-app-0.1.1.tgz
+    - https://ridwanbejo.github.io/helm-demo-app/charts/helm-demo-app-0.1.1.tgz
     version: 0.1.1
-generated: "2026-02-07T20:18:42.48048+07:00"
+generated: "2026-02-07T20:21:47.571296+07:00"
